@@ -13,20 +13,20 @@
   </a> 
 </p>
 
-<!-- Animated Intro -->
+<!-- Neon Magenta Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=600&lines=🎓+Currently+pursuing+Computer+Science+and+Engineering;📍+From+Chittagong,+Bangladesh+🇧🇩;👾+Cyber+Security+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=600&color=FF00FF&lines=🎓+Currently+pursuing+Computer+Science+and+Engineering;📍+From+Chittagong,+Bangladesh+🇧🇩;👾+Cyber+Security+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
 <h3 align="left">About Me</h3>
 
-- 🔭 I’m currently working on **Data Structures**
+- 🔭 I’m currently working on **Data Structure**
 
-- 🌱 I’m currently learning **Data Structures**
+- 🌱 I’m currently learning **Data Structure**
 
-- 💬 Ask me about **C programming, Java (Object oriented programming), 2D-3D shape creation**
+- 💬 Ask me about **C programming, Java(Object oriented programming), 2D & 3D shape designing**
 
 - 📫 How to reach me **abtahiihfaz@gmail.com**
 
@@ -34,11 +34,11 @@
 
 ---
 
-<!-- Skills Typing Animation -->
+<!-- Skills Typing Animation (Blue Style) -->
 <h3 align="left">Skills</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&center=true&vCenter=true&width=500&lines=C+Programming;Java+OOP;HTML+Basics;Problem+Solving;Data+Structures;Cyber+Security+Basics" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&center=true&vCenter=true&width=500&color=00BFFF&lines=C+Programming;Java+OOP;HTML+Basics;Problem+Solving" />
 </p>
 
 ---
