@@ -22,15 +22,32 @@
 
 <h3 align="left">About Me</h3>
 
-- 🔭 I’m currently working on **Data Structure**
+- 🔭 I’m currently working on **Data Structures**
 
-- 🌱 I’m currently learning **Data Structure**
+- 🌱 I’m currently learning **Data Structures**
 
-- 💬 Ask me about **C programming, Java(Object oriented programming), 2D-3D shape creation**
+- 💬 Ask me about **C programming, Java (Object oriented programming), 2D-3D shape creation**
 
 - 📫 How to reach me **abtahiihfaz@gmail.com**
 
 - ⚡ Fun fact **I can solve a rubik's cube**
+
+---
+
+<!-- Skills Typing Animation -->
+<h3 align="left">Skills</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&center=true&vCenter=true&width=500&lines=C+Programming;Java+OOP;HTML+Basics;Problem+Solving;Data+Structures;Cyber+Security+Basics" />
+</p>
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,java,html,vscode,git&theme=dark" />
+</p>
 
 ---
 
@@ -48,14 +65,6 @@
   <a href="https://discord.gg/ihf4z" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ihf4z" height="30" width="40" />
   </a>
-</p>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,html,android,git,github,vscode&theme=dark" />
 </p>
 
 ---
