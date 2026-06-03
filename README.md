@@ -22,11 +22,11 @@
 
 <h3 align="left">About Me</h3>
 
-- 🔭 I’m currently working on **Data Structure**
+- 🔭 I’m currently working on **Data Structures**
 
-- 🌱 I’m currently learning **Data Structure**
+- 🌱 I’m currently learning **Data Structures**
 
-- 💬 Ask me about **C programming, Java(Object oriented programming), 2D & 3D shape designing**
+- 💬 Ask me about **C programming, Java (Object oriented programming), 2D & 3D shape designing**
 
 - 📫 How to reach me **abtahiihfaz@gmail.com**
 
